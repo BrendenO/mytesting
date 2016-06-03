@@ -1,0 +1,28 @@
+{
+  "name": "mytesting",
+  "version": "1.0.0",
+  "description": "My testing grounds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrendenO/mytesting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrendenO/mytesting/issues"
+  },
+  "homepage": "https://github.com/BrendenO/mytesting#readme",
+  "engines": {
+    "node": "4.4.5"
+  },
+  "private": true,
+  "dependencies": {
+    "angular": "^1.5.6",
+    "express": "^4.13.4"
+  }
+}
